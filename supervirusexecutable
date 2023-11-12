@@ -1,0 +1,6 @@
+do
+X=MsgBox("This computer is infected",0+48,"SUPERVIRUS")
+X=MsgBox("Fix it now",0+48,"SUPERVIRUS")
+X=MsgBox("This trojan is dangerous",0+48,"SUPERVIRUS")
+X=MsgBox("Turn off your computer",0+48,"SUPERVIRUS") 
+loop
